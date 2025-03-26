@@ -1,7 +1,7 @@
-# prompt_III.ipynb
+# Practical Aplication III
 # Findings:
 
-Following initial experiments, we have further explored optimization through hyperparameter tuning and cross-validation. Our analysis reveals that the Random Forest (RF) model shows only a minimal increase in accuracy and precision after optimization. The model correctly predicts the outcome (whether someone subscribes or not) in 90% of cases.
+The goal was to enhance the efficiency of directed campaigns for long-term deposit subscriptions by minimizing the number of contacts required. Following initial experiments, we have further explored optimization through hyperparameter tuning and cross-validation. Our analysis reveals that the Random Forest (RF) model shows only a minimal increase in accuracy and precision after optimization. The model correctly predicts the outcome (whether someone subscribes or not) in 90% of cases.
 
 However, the most notable outcome is that the model robustly evaluates each parameter combination and selects the optimal one, achieving a balance between performance and robustness. This ensures the model provides reliable predictions in real-world scenarios.
 
