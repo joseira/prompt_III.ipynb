@@ -7,7 +7,7 @@ However, the most notable outcome is that the model robustly evaluates each para
 
 # Impact of some features on the model's prediction:
 
-We found the duration of the call aligns with the earlier analysis presented in the article accompanying the dataset, which identified duration as the most influential characteristic. Specifically, longer phone calls were found to correlate with a higher likelihood of a subscription. In this context, we observe that longer phone calls remains the most relevant factor influencing the model's outcomes.
+We found longer phone calls were found to correlate with a higher likelihood of a subscription. In this context, we observe that longer phone calls remains the most relevant factor influencing the model's outcomes.
 
 When evaluating the optimal timing for scheduling campaigns, we observe that May is the least effective month for achieving subscriptions. Additionally, specific days of the week yield better results, with Wednesday standing out as the most successful day for campaign scheduling.
 
